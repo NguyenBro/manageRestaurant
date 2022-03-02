@@ -1,0 +1,37 @@
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\bin\Debug\FinalProjectST.exe.config
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\bin\Debug\FinalProjectST.exe
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\bin\Debug\FinalProjectST.pdb
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\bin\Debug\Guna.UI2.dll
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.csproj.AssemblyReference.cache
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.ManageMainForm.resources
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.SplitShiftForm.resources
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.WatchShiftForm.resources
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.Properties.Resources.resources
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.ThanksForm.resources
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.csproj.GenerateResource.cache
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.csproj.CoreCompileInputs.cache
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.csproj.CopyComplete
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.exe
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.pdb
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.RegisterForm.resources
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.UserEditInfoForm.resources
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.StatisticForm.resources
+F:\Project\Project C#\Winform\ProjectST\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.OrderDetailForm.resources
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\bin\Debug\FinalProjectST.exe.config
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\bin\Debug\FinalProjectST.exe
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\bin\Debug\FinalProjectST.pdb
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.ManageMainForm.resources
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.OrderDetailForm.resources
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.SplitShiftForm.resources
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.WatchShiftForm.resources
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.StatisticForm.resources
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.Properties.Resources.resources
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.RegisterForm.resources
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.ThanksForm.resources
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.UserEditInfoForm.resources
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.csproj.CopyComplete
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.exe
+C:\Users\Admin\Desktop\FinalProjectST\FinalProjectST\obj\Debug\FinalProjectST.pdb
